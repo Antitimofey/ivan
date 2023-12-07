@@ -1,0 +1,3 @@
+/home/tim/Рабочий стол/Тимофей/Универ/Практика/Antipov_T-AI_for_checkers/build/CMakeFiles/AI_FOR_CHECKERS.dir
+/home/tim/Рабочий стол/Тимофей/Универ/Практика/Antipov_T-AI_for_checkers/build/CMakeFiles/edit_cache.dir
+/home/tim/Рабочий стол/Тимофей/Универ/Практика/Antipov_T-AI_for_checkers/build/CMakeFiles/rebuild_cache.dir
